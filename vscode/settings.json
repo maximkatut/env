@@ -1,0 +1,40 @@
+{
+  "workbench.colorTheme": "Material Theme High Contrast",
+  "window.zoomLevel": 1,
+  "files.autoSave": "afterDelay",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.emmet"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.emmet"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.emmet"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "color-highlight.markerType": "dot-before",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+  ],
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "eslint.lintTask.enable": true
+}

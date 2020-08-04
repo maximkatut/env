@@ -1,0 +1,43 @@
+# Settings for VSCode
+
+## Extensions
+  - aaron-bond.better-comments
+  - coenraads.bracket-pair-colorizer
+  - karigari.chat
+  - naumovs.color-highlight
+  - adam-watters.vscode-color-pick
+  - equinusocio.vsc-community-material-theme
+  - pranaygp.vscode-css-peek
+  - msjsdiag.debugger-for-chrome
+  - dsznajder.es7-react-js-snippets
+  - dbaeumer.vscode-eslint
+  - mhutchie.git-graph
+  - donjayamanne.githistory
+  - github.vscode-pull-request-github
+  - eamodio.gitlens
+  - riazxrazor.html-to-jsx
+  - wix.vscode-import-cost
+  - oderwat.indent-rainbow
+  - xabikos.javascriptsnippets
+  - orta.vscode-jest
+  - firsttris.vscode-jest-runner
+  - andys8.jest-snippets
+  - ritwickdey.liveserver
+  - ms-vsliveshare.vsliveshare
+  - ms-vsliveshare.vsliveshare-audio
+  - ms-vsliveshare.vsliveshare-pack
+  - yzhang.markdown-all-in-one
+  - pkief.material-icon-theme
+  - equinusocio.vsc-material-theme
+  - equinusocio.vsc-material-theme-icons
+  - fallenmax.mithril-emmet
+  - monokai.theme-monokai-pro-vscode
+  - liviuschera.noctis
+  - bengreenier.vscode-node-readme
+  - johnpapa.vscode-peacock
+  - gencer.html-slim-scss-css-class-completion
+  - zengxingxin.sort-js-object-keys
+  - simonsiefke.svg-preview
+  - vscode-icons-team.vscode-icons
+  - streetsidesoftware.code-spell-checker
+  - amatiasq.sort-imports
