@@ -1,19 +1,10 @@
 {
-  "workbench.colorTheme": "Material Theme High Contrast",
+  "workbench.colorTheme": "Ayu Mirage Bordered",
   "window.zoomLevel": 1,
   "files.autoSave": "afterDelay",
-  "[html]": {
-    "editor.defaultFormatter": "vscode.emmet"
-  },
-  "[css]": {
-    "editor.defaultFormatter": "vscode.emmet"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "vscode.emmet"
-  },
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "ayu",
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "liveServer.settings.donotShowInfoMsg": true,
@@ -29,12 +20,17 @@
     "javascript",
     "javascriptreact",
     "typescript",
-    "typescriptreact",
+    "typescriptreact"
   ],
   "eslint.codeAction.showDocumentation": {
     "enable": true
   },
-  "eslint.format.enable": true,
   "eslint.run": "onSave",
-  "eslint.lintTask.enable": true
+  "eslint.lintTask.enable": true,
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "eslint.format.enable": true
 }
